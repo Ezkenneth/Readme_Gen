@@ -40,7 +40,8 @@ const questions = [
         type: "list",
         message: "License?",
         name: "license",
-        choices: ["MIT", "ISC", "IDK"],
+        choices: [
+          "MIT", "ISC", "IBM"],
       },
       {
         type: "input",
@@ -71,6 +72,7 @@ function init() {
     .then(function(data) {
         writeToFile("TestREADME.md", generateMarkdown(data));
     })
+
 }
 
 // function call to initialize program

@@ -1,36 +1,36 @@
-#Project Name -  This title
+#Project Name -  READMEGEN 
       
 
-  *[Description][#description]
+## Description
+    This program writes a readme.md file
 
-  ## Table of Content
+## Table of Content
    
-  *[Installation][#install]
+*[Installation](#installation)
      
-  *[Usage][#usage]
+*[Usage](#usage)
        
-  *[Credits][#credits]
+*[Credits](#credits)
     
-  *[License][#license]
+*[License](#license)
      
   
-    ## Description
-     Hahahhahaha
+
     
   
-    ## Installation
-     Oh well
+## Installation
+    Install node packages and dependencies 
   
-    ## Usage
-     Idk
+## Usage
+    Answer prompt questions
     
-    ## Credits
-     undefined
+## Credits
+    undefined
     
-    ## License
+## License
      ISC
       
     
-    ## Questions
-    * Github : [Idk](github.com/Idk)
-    * E-mail : Reach me at - jsjsj
+## Questions
+* Github : [ezkenneth](github.com/ezkenneth)
+* E-mail : Reach me at - email
